@@ -4,5 +4,4 @@ tty-clock clone/remake made in rust. instead of including the ascii characters i
 
 todo:
 #### allow user to use different/custom figlet fonts
-#### use q to exit without pressing enter after
 #### non figlet mode
