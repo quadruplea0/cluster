@@ -7,3 +7,4 @@ edition = "2024"
 time ={version =  "0.3.55", features = ["formatting", "parsing", "local-offset", "macros"]}
 crossterm = "0.29.0"
 figlet-rs = "1.0.0"
+clap = { version = "4.6.6", features = ["derive"] }
