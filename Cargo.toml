@@ -1,0 +1,9 @@
+[package]
+name = "clockrs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+time ={version =  "0.3.55", features = ["formatting", "parsing", "local-offset", "macros"]}
+crossterm = "0.29.0"
+figlet-rs = "1.0.0"
